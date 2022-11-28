@@ -132,7 +132,7 @@ int main()
 			}
 		}
 
-		if (!(number_operation >= 0) && !(number_operation < 7))
+		if (!(number_operation >= 0) && !(number_operation < 10))
 		{
 			cout << "--------------------------------------------------------------------------" << endl;
 			cout << " Òîâàðà ñ òàêèì íîìåðîì íåòó";
